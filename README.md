@@ -1,3 +1,5 @@
+[![Runme](https://svc.runme.io/static/button.svg)](http://runme.io/run?app_id=fed75078-1fc3-415d-82ad-51da2817db27)
+
 # VueJS App Hosting Template
 Template to host a VueJS project without backend logic.
 
